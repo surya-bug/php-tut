@@ -10,6 +10,8 @@ $is_awesome = true // or false;
 
 $data = null;
 
+echo "My name is $name \n"
+
 var_dump($name);
 var_dump($age);
 var_dump($pi);
